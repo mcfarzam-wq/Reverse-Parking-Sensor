@@ -1,4 +1,4 @@
-Project Overview
+*Project Overview*
 
 An Arduino-based reverse parking sensor prototype that uses an ultrasonic sensor to measure the distance to nearby obstacles. The system indicates the distance level using three LEDs:
 
@@ -9,9 +9,10 @@ An Arduino-based reverse parking sensor prototype that uses an ultrasonic sensor
 -Close distance: Red LED ON, buzzer ON
 
 This project demonstrates the basic functionality of a vehicle reverse parking sensor using an Arduino and an ultrasonic sensor.
-You can see the simulation, circuit and codes on my Wokwi profile: https://wokwi.com/projects/471873504875075585
 
-How It Works (Scientific)
+[open the simulation, codes and circuit diagram](https://wokwi.com/projects/471873504875075585)
+
+How It Works
 
 1. The Arduino code makes the ultrasonic sensor work by sending an ultrasonic pulse. When the pulse is sent, it travels toward the nearest obstacle, hits it, and returns to the sensor. The ultrasonic sensor measures the time it takes for the pulse to return, and the Arduino stores this value in a variable. The Arduino then multiplies the value by "0.0343" and divides it by "2". The result is stored in a new integer variable, converting the measured distance into centimeters.
 
