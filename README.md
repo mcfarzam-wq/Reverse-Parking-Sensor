@@ -59,7 +59,7 @@ void loop() {
     digitalWrite (LEDR, LOW);
     digitalWrite (BUZ, LOW);
   }
-    else if (DIC <= 10 && DIC <= 20){
+    else if (DIC <= 10){
     digitalWrite (LEDG,LOW);
     digitalWrite (LEDY,LOW);
     digitalWrite (LEDR,HIGH);
