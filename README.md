@@ -22,8 +22,9 @@ This project demonstrates the basic functionality of a vehicle reverse parking s
 
 **Photos and videos**
 
-<img src="Breadboard(1).jpg" width="600">
-<img src="Breadboard(2).jpg" width="600">
+[breadboard image (1)](https://raw.githubusercontent.com/mcfarzam-wq/Reverse-Parking-Sensor/refs/heads/main/Breadboard(1).jpg) 
+
+[breadboard image (2)](https://raw.githubusercontent.com/mcfarzam-wq/Reverse-Parking-Sensor/refs/heads/main/Breadboard(2).jpg)
 
 ```cpp
 #define Trig 2
