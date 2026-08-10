@@ -20,7 +20,19 @@ This project demonstrates the basic functionality of a vehicle reverse parking s
 
 [My other projects on wokwi simulator](https://wokwi.com/makers/farzamfahimpour)
 
-**Photos and videos**
+**Components used**
+
+-Breadboard
+
+-Buzzer
+
+-LED (RED,GREEN,YELLOW)
+
+-Ultrasonic sensor (SRF04)
+
+-Arduino UNO R3
+
+**Photos**
 
 [breadboard image (1)](https://raw.githubusercontent.com/mcfarzam-wq/Reverse-Parking-Sensor/refs/heads/main/Breadboard(1).jpg) 
 
