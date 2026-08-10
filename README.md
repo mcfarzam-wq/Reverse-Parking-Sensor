@@ -22,6 +22,8 @@ This project demonstrates the basic functionality of a vehicle reverse parking s
 
 **Photos and videos**
 
+<img src="Breadboard(1).jpg" width="600">
+<img src="Breadboard(2).jpg" width="600">
 ```cpp
 #define Trig 2
 #define Echo 3
